@@ -10,7 +10,7 @@ class Gon < Formula
 
   on_macos do
     url "https://github.com/mitchellh/gon/releases/download/v0.2.5/gon_macos.zip"
-    sha256 "1417aa6c8b2911dcca961c0eaa9540e907cf3956ae6c4fefdbf46173d95c9125"
+    sha256 "d4a0105e91286e6fd63c0f8fa9f2c4cf6150367b345f578ee59fb01cdda5c8ce"
 
     def install
       bin.install "gon"
